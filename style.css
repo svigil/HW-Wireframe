@@ -56,6 +56,7 @@ header{
     width: 49%;
     height: 200px;
     margin: 5px 1% 5px 5%;
+    padding: 20px;
     color: #777;
     background: #ebebeb;
 }
@@ -67,6 +68,7 @@ header{
     width: 39%;
     height: 200px;
     margin: 5px 5% 5px 1%;
+    padding: 90px;
     color: #777;
     background: #ebebeb;
 }
@@ -79,7 +81,8 @@ header{
     position: absolute;
     top: 25%;
     width: 90%;
-    margin: 5px;
+    margin: 5px;    
+    padding: 10px;
     color: #ebebeb;
     background: #777;
 
@@ -92,8 +95,8 @@ header{
     
     position: relative;
     top: 20px;
-    height: 20px;
-    width: 220px;
+    height: 30px;
+    width: 370px;
     font: bold;
     color: #777;
     background: #ebebeb;
@@ -106,10 +109,11 @@ header{
 
     position: relative;
     /* top: 70px; */
-    height: 20px;
-    width: 220px;
+    height: 30px;
+    width: 370px;
     color: #777;
     background: #ebebeb;
+    left: 10px;
     
 }
 
@@ -119,6 +123,7 @@ header{
     height: 100px;
     width: 90%;
     margin: 5px 5%;
+    padding: 45px;
     color: #777;
     text-align: center;
     clear: both;
